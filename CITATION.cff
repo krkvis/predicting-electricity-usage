@@ -10,9 +10,7 @@ authors:
   - given-names: Kjersti Rustad
     family-names: Kvisberg
     email: kjersti.ruskvi@gmail.com
-    affiliation: >-
-      Master thesis from the Norwegian University of
-      Life Sciences
+abstract: "Code for master thesis at the Norwegian University of Life Sciences"
 year: 2022
-publisher: GitHub
-howpublished: github.com/krkvis/predicting-electricity-usage
+date-released: "2022-12-15"
+repository-code: github.com/krkvis/predicting-electricity-usage
