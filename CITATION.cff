@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: predicting-electricity-usage
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kjersti Rustad
+    family-names: Kvisberg
+    email: kjersti.ruskvi@gmail.com
+    affiliation: >-
+      Master thesis from the Norwegian University of
+      Life Sciences
